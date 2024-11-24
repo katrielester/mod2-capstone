@@ -39,3 +39,6 @@ This project analyzes sales, profit, and customer data from a Software as a Serv
 - **Reevaluate Discount Strategies** to reduce deep discounts and minimize their impact on profitability.
 - **Target Key Customer Segments** (SMB, Finance, Healthcare) and regions (US, UK, Japan) for marketing and sales efforts.
 - **Improve Profit Margins** by optimizing pricing strategies and focusing on high-margin products.
+
+##  Tableau
+You can find the Tableau  dashboard for this project [here](https://public.tableau.com/views/SaaSSalesDashboard_17324630994510/SaaSProductAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
