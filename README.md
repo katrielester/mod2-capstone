@@ -12,37 +12,6 @@ This project analyzes sales, profit, and customer data from a Software as a Serv
 - Examine **global market trends** and geographic variations in demand.
 - Conduct **correlation analysis** to evaluate relationships between **sales**, **profit**, **discounts**, and **profit margins**.
 
-## Project Structure
-
-- **`data/`**: Contains the raw dataset used for analysis.
-- **`notebooks/`**: Contains Jupyter Notebooks for performing data analysis and generating visualizations.
-- **`outputs/`**: Contains the output of the analysis, such as plots, tables, and reports.
-- **`README.md`**: This file, providing an overview of the project.
-
-## Installation
-
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/saas-sales-analysis.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd saas-sales-analysis
-   ```
-
-3. Install required dependencies (use Python 3.7+):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Open the Jupyter notebook for analysis:
-   ```bash
-   jupyter notebook notebooks/eda.ipynb
-   ```
-
 ## Analysis Summary
 
 ### Key Insights:
