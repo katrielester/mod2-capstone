@@ -41,4 +41,4 @@ This project analyzes sales, profit, and customer data from a Software as a Serv
 - **Improve Profit Margins** by optimizing pricing strategies and focusing on high-margin products.
 
 ##  Tableau
-You can find the Tableau  dashboard for this project [here]([https://public.tableau.com/views/SaaSSalesDashboard_17324630994510/SaaSProductAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/7X44CGQDR?:display_count=n&:origin=viz_share_link)).
+You can find the Tableau  dashboard for this project [here](https://public.tableau.com/views/SaaSSalesAnalysis_17325052153090/SaaSProductAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
